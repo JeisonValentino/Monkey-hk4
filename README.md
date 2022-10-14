@@ -1,4 +1,4 @@
-* 👋  Hola mi nombre es David.
+* 👋  Hola
 * 🤖  Soy programador de bots y Heramientas de hacking.
 * 👀  Se programar en python, C#, bash, perl y HTML.
 * 👩‍🚀  Programación, Hacking y Electrónica.
