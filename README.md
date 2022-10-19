@@ -10,4 +10,5 @@
 * 🐧  Uso Linux y Windows ambos me gustan.
 
 # INFORMACIÓN 👾
-<img align="center" width="430" height="auto" alt="Mhk4" src="https://github-readme-stats.vercel.app/api?username=Monkey-hk4&theme=radical">
+<img align="left" width="430" height="auto" alt="Mhk4" src="https://github-readme-stats.vercel.app/api?username=Monkey-hk4&theme=radical">
+<img align="right" width="359" height="auto" alt="MHK4" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monkey-hk4&theme=radical">
